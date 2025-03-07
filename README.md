@@ -1,5 +1,4 @@
 ## 👋 Hey, I'm Rome!
-### Aspiring Data Scientist | MSc Data Science & AI Student | BSc (Honours) Physics Graduate
 
 A Physics graduate with hands-on experience in data analysis, experimental design, and equipment management. As a former science laboratory technician, I am experienced in preparing and calibrating scientific instruments, analyzing complex data sets, and supporting research projects. Possesses solid foundational skills in statistical analysis, computational methods, and data handling.
 
