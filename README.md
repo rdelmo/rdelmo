@@ -8,21 +8,29 @@ I also love frozen yoghurt.
 
 ### 🚀 Skills & Technologies:
 **Programming**: Python, SQL
+
 **AI/ML Frameworks & Libraries**: TensorFlow, PyTorch, scikit-learn, NLTK, spaCy, TextBlob
+
 **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+
 **Databases**: Oracle SQL Developer, MongoDB
-**Cloud Platforms**: d
+
+**Cloud Platforms**:
+
 **MLOps**: GitHub
+
 **Development Environments**: Jupyter Notebooks, Google Colab
 
 ---
 
 ### 📖 Education & Certifications: 
 - **MSc Data Science & Artificial Intelligence** (current)
+
 - **BSc (Honours) Physics** (First-class)
 
 - **NCFE Level 2 Certificate in Principles of Business Administration**
 o	Professional communication, workplace etiquette, teamwork, and organisational awareness
+
 - **IBM Data Science Professional Certificate**
 o	Used Python, R, SQL and Git for data analysis, machine learning, and version control. 
 o	Applied CRISP-DM methodology for end-to-end data science projects, including EDA, data wrangling, model building, and visualisation using Jupyter Notebooks.
