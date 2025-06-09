@@ -7,13 +7,13 @@ I also love frozen yoghurt.
 ---
 
 ### 🚀 Skills & Technologies:
-- 📊 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- 🤖 **Machine Learning:** Scikit-learn
-- 💻 **Programming:** Python, SQL, R
-
-- 📂 **Databases:** Oracle SQL Developer
-- ☁️ **Cloud & Big Data:** -
-- 🔧 **Version Control:** GitHub
+**Programming**: Python, SQL
+**AI/ML Frameworks & Libraries**: TensorFlow, PyTorch, scikit-learn, NLTK, spaCy, TextBlob
+**Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
+**Databases**: Oracle SQL Developer, MongoDB
+**Cloud Platforms**: d
+**MLOps**: GitHub
+**Development Environments**: Jupyter Notebooks, Google Colab
 
 ---
 
