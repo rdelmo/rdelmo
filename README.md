@@ -48,4 +48,4 @@ Here are some of my favourite projects:
 - **Problem:** A limitation of ANPR is due to the environmental factor of poor weather conditions; this project uses computer vision techniques to improve number plate detection in fog
 - **Approach:** Plate Detection: locating the rectangular region containing the license plate within the image; used a pre-trained Haar Cascade Classifier; performed Transfer Learning with ResNet50, improved via freezing and hyperparameter-tuning, evaluated model accuracy using average IoU (Intersection over Union)
 - **Impact:** Average IoU for clear images was 0.69, whereas 0.71 for foggy images. Areas for improvement are outlined in the notebook.
-* **Skills:** `Image Processing`, `Data Augmentation`, `Object Detection`, `PyTorch`, `OpenCV`
+- **Skills:** `Image Processing`, `Data Augmentation`, `Object Detection`, `PyTorch`, `OpenCV`
