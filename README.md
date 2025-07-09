@@ -7,6 +7,7 @@ I also love frozen yoghurt.
 ---
 
 ### 🚀 Skills & Technologies:
+
 **Programming**: Python, SQL
 
 **AI/ML Frameworks & Libraries**: TensorFlow, PyTorch, scikit-learn, NLTK, spaCy, TextBlob
@@ -15,11 +16,12 @@ I also love frozen yoghurt.
 
 **Databases**: Oracle SQL Developer, MongoDB
 
-**Cloud Platforms**:
-
 **MLOps**: GitHub
 
 **Development Environments**: Jupyter Notebooks, Google Colab
+
+![image](https://github.com/user-attachments/assets/543a2d65-ba65-47ae-a0c9-63543263b74f)
+
 
 ---
 
