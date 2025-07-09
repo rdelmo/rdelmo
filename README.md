@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/abd0ec5f-a551-42ed-baa9-8935e19aa63f)## 👋 Hey, I'm Rome!
+## 👋 Hey, I'm Rome!
 
 A Physics graduate with hands-on experience in data analysis, experimental design, and equipment management. As a former science laboratory technician, I am experienced in preparing and calibrating scientific instruments, analyzing complex data sets, and supporting research projects. Possesses solid foundational skills in statistical analysis, computational methods, and data handling.
 
