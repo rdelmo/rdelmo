@@ -2,7 +2,7 @@
 
 I'm [Rome](https://rdelmo.github.io/), an aspiring Data Scientist / AI Engineer.
 
-I finished my MSc in Data Science & Artificial Intelligence, where I've been building an LLM-based diagnostic pipeline to detect Alzheimer's disease from spontaneous speech. I also worked with engineers at JPMorganChase on a full-stack enterprise banking platform project.
+I finished my MSc in Data Science & Artificial Intelligence, where I've built  an LLM-based diagnostic pipeline to detect Alzheimer's disease from spontaneous speech. I also worked with engineers at JPMorganChase on a full-stack enterprise banking platform project.
 
 I come from a Physics background which shapes how I approach problems; rigorously and from first principles. I'm passionate about applying NLP and Large Language Models to real-world, high-impact problems.
 
