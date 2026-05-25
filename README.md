@@ -1,7 +1,4 @@
- **Hi there!** <div>
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50"/>
-</div>
-
+ **Hi there!** <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"/>
 I'm [Rome](https://rdelmo.github.io/),
 
 I finished my MSc in Data Science & Artificial Intelligence, where I've been building an LLM-based diagnostic pipeline to detect Alzheimer's disease from spontaneous speech. I also worked with engineers at JPMorganChase on a full-stack enterprise banking platform project.
